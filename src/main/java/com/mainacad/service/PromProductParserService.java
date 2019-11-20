@@ -118,7 +118,4 @@ public class PromProductParserService extends Thread {
         }
         return result;
     }
-
-
-
 }
